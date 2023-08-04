@@ -1,4 +1,4 @@
-# Nest.js-loggerProject
+# Nest.js-Logger-Project
 로그가 왜 중요하고 어떻게 구성되어 있는지 궁금해, Nest.js에서 기본적으로 제공하는 **내장 Logger를 직접 만들어 본 프로젝트**
 
 - 팀원 : 1명
